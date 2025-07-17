@@ -1,0 +1,5 @@
+speechrecognition
+pyaudio  # Optional, only needed for microphone input
+transformers
+torchaudio
+torch
