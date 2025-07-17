@@ -94,3 +94,7 @@ SPEECH RECOGNITION SYSTEM/
 * You can record or compress your own `.wav` file and name it `sample.wav`.
 * Wav2Vec2 works best on clean audio without background noise.
 
+  #OUTPUT
+
+  <img width="1853" height="712" alt="Image" src="https://github.com/user-attachments/assets/4bf6eb3b-b203-4ef9-99f8-fcbb32550695" />
+
